@@ -15,7 +15,7 @@
     
     <dependencies>
       <dependency>
-        <groupId>org.postgres.sql</groupId>
+        <groupId>org.postgresql</groupId>
         <artifactId>postgresql</artifactId>
         <version>42.2.2-jdbc42</version>
       </dependency>
