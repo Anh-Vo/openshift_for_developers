@@ -17,8 +17,10 @@
       <dependency>
         <groupId>org.postgresql</groupId>
         <artifactId>postgresql</artifactId>
+        <version>VERSION</version>
       </dependency>
     </dependencies>
+
 <build>
     <plugins>
         <plugin>
